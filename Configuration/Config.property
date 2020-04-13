@@ -1,0 +1,6 @@
+ChromeDriver=C:\\Users\\Sai chand\\eclipse-workspace\\SwagLabs\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver=C:\\Users\\Sai chand\\eclipse-workspace\\SwagLabs\\src\\test\\resources\\binaries\\geckodriver.exe
+URL =https://www.saucedemo.com/
+
+Excelpath=C:\\Users\\Sai chand\\eclipse-workspace\\SwagLabs\\src\\test\\resources\\XLSX\\TestData.xlsx

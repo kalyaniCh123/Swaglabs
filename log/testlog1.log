@@ -1,0 +1,107 @@
+2020-04-12 14:12:10,012 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:14:51,484 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:28:19,149 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:32:42,217 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:34:07,988 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:35:31,535 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:37:14,728 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:40:41,916 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:43:21,495 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 14:53:48,959 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 15:08:36,832 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 15:12:28,821 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 15:26:05,233 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 15:26:26,225 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 15:26:26,225 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 15:26:26,227 [main] INFO LoginTestPage - Application closed
+2020-04-12 15:58:25,130 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:10:51,900 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:11:06,663 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:11:06,664 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:11:14,893 [main] INFO LoginTestPage - Application closed
+2020-04-12 16:12:17,108 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:12:27,115 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:12:27,115 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:12:46,022 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-step-two.html
+2020-04-12 16:12:46,037 [main] INFO LoginTestPage - Details are Taken Sucessfully
+2020-04-12 16:12:46,037 [main] INFO LoginTestPage - Application closed
+2020-04-12 16:16:11,508 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:16:26,608 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:16:26,610 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:16:29,955 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 16:16:33,942 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 16:16:36,217 [main] INFO LoginTestPage - User removed unnecessary items from cart
+2020-04-12 16:16:36,221 [main] INFO LoginTestPage - Application closed
+2020-04-12 16:19:42,580 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:19:52,026 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:19:52,027 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:19:52,853 [main] INFO LoginTestPage - Application closed
+2020-04-12 16:23:26,858 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:23:31,657 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:23:31,658 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:23:35,883 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 16:23:39,466 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 16:23:41,632 [main] INFO LoginTestPage - User removed unnecessary items from cart
+2020-04-12 16:23:42,093 [main] INFO LoginTestPage - Application closed
+2020-04-12 16:30:57,794 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 16:31:11,840 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 16:31:11,841 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 16:31:16,253 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 16:31:19,706 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 16:31:23,708 [main] INFO LoginTestPage - Clicked on checkout button
+2020-04-12 16:31:30,833 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-step-two.html
+2020-04-12 16:31:30,834 [main] INFO LoginTestPage - Details are Taken Sucessfully
+2020-04-12 16:31:30,836 [main] INFO LoginTestPage - Application closed
+2020-04-12 23:21:08,041 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 23:21:16,127 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 23:21:16,143 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 23:21:21,436 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 23:21:26,236 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 23:56:24,281 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 23:56:29,332 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 23:56:29,334 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 23:56:34,208 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 23:56:38,981 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 23:56:41,418 [main] INFO LoginTestPage - User removed unnecessary items from cart
+2020-04-12 23:56:42,100 [main] INFO LoginTestPage - Application closed
+2020-04-12 23:57:18,955 [main] INFO LoginTestPage - Chrome Opened
+2020-04-12 23:57:23,092 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-12 23:57:23,093 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-12 23:57:28,284 [main] INFO LoginTestPage - User added items to cart
+2020-04-12 23:57:32,826 [main] INFO LoginTestPage - Cart is opened
+2020-04-12 23:57:37,440 [main] INFO LoginTestPage - Clicked on checkout button
+2020-04-12 23:57:46,581 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-step-two.html
+2020-04-12 23:57:46,582 [main] INFO LoginTestPage - Details are Taken Sucessfully
+2020-04-12 23:57:46,587 [main] INFO LoginTestPage - Application closed
+2020-04-12 23:59:47,103 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 00:00:48,889 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 00:12:32,550 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 00:12:36,122 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-13 00:12:36,123 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-13 00:12:41,086 [main] INFO LoginTestPage - User added items to cart
+2020-04-13 00:12:44,800 [main] INFO LoginTestPage - Cart is opened
+2020-04-13 00:12:49,369 [main] INFO LoginTestPage - Clicked on checkout button
+2020-04-13 00:12:58,383 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-step-two.html
+2020-04-13 00:12:58,385 [main] INFO LoginTestPage - Details are Taken Sucessfully
+2020-04-13 00:12:58,388 [main] INFO LoginTestPage - Application closed
+2020-04-13 11:32:02,093 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:38:02,181 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:39:44,479 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:41:22,213 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:42:32,880 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:42:55,373 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-13 11:42:55,374 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-13 11:42:56,465 [main] INFO LoginTestPage - Application closed
+2020-04-13 11:44:15,067 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:46:37,811 [main] INFO LoginTestPage - Chrome Opened
+2020-04-13 11:46:53,639 [main] INFO LoginTestPage - https://www.saucedemo.com/inventory.html
+2020-04-13 11:46:53,640 [main] INFO LoginTestPage - User is able to login sucessfully
+2020-04-13 11:46:55,571 [main] INFO LoginTestPage - User added items to cart
+2020-04-13 11:46:59,056 [main] INFO LoginTestPage - Cart is opened
+2020-04-13 11:46:59,272 [main] INFO LoginTestPage - User removed unnecessary items from cart
+2020-04-13 11:47:01,758 [main] INFO LoginTestPage - Clicked on checkout button
+2020-04-13 11:47:04,469 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-step-two.html
+2020-04-13 11:47:04,470 [main] INFO LoginTestPage - Details are Taken Sucessfully
+2020-04-13 11:47:07,641 [main] INFO LoginTestPage - https://www.saucedemo.com/checkout-complete.html
+2020-04-13 11:47:07,642 [main] INFO LoginTestPage - Order is placed Sucessfully
+2020-04-13 11:47:08,271 [main] INFO LoginTestPage - Application closed
